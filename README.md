@@ -130,7 +130,7 @@ Add screenshots after capturing them in Packet Tracer. Keeping the `.pkt`, READM
 
 ## 👤 Author
 
-**Your Name**  
+**Your Name**  SHAZIN.C
 Networking and Cloud Student  
 [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
 
